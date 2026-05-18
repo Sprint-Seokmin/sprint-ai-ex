@@ -1,2 +1,2 @@
 def test():
-    print("This is a test function.")   
+    print("This is a test function from online.")   
